@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/Rushi.jpg"
+              src="/Rushi.JPG"
               alt="Rushikesh Chorge"
               width={192}
               height={192}
