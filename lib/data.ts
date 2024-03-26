@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import Imaginify from "@/public/Imaginify.png";
 import JourneyJot from "@/public/JourneyJot.png";
-import Gatherguru from "@/public/Gatherguru.png";
+import AuthNinja from "@/public/AuthNinja.png";
 import Goldgym from "@/public/Goldgym.png";
 
 export const links = [
@@ -71,12 +71,12 @@ export const projectsData = [
     url:"https://journeyjot-x2f3.onrender.com/"
   },
   {
-    title: "Gather-Guru",
+    title: "AuthNinja",
     description:
-      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-    tags: ["React", "Next.js", "Mongodb", "Tailwind", "stripe"],
-    imageUrl: Gatherguru,
-    url:"https://gather-guru.vercel.app/"
+      "AuthNinja is a Next.js-based authentication system with OAuth support for Google and GitHub. It offers advanced security features like two-factor authentication and user roles for seamless access control.",
+    tags: ["React", "Next.js", "NextAuthjs", "Typescript"],
+    imageUrl: AuthNinja,
+    url:"https://authninja.vercel.app/"
    
   },
   {
