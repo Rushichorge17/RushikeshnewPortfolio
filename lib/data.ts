@@ -6,7 +6,13 @@ import Imaginify from "@/public/Imaginify.png";
 import JourneyJot from "@/public/JourneyJot.png";
 import AuthNinja from "@/public/AuthNinja.png";
 import Goldgym from "@/public/Goldgym.png";
-
+import Gatherguru from "@/public/Gatherguru.png";
+import GocarHub from "@/public/GocarHub.png"
+import Visualizepro from "@/public/Visualizepro.png"
+import Realtynest from "@/public/Realtynest.png"
+import NoughtAndCrossRoads from "@/public/NoughtAndCrossRoads.png"
+import Todos from "@/public/Todos.png"
+import  MonitorPro from "@/public/MonitorPro.png"
 export const links = [
   {
     name: "Home",
@@ -80,6 +86,14 @@ export const projectsData = [
    
   },
   {
+    title: "Gather-Guru",
+    description:
+    "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
+  tags: ["React", "Next.js", "Mongodb", "Tailwind", "stripe"],
+  imageUrl: Gatherguru,
+  url:"https://gather-guru.vercel.app/"
+  },
+  {
     title: "Golds Gym Fitness",
     description:
       "Rendering JSX and implementing exercise details. Dynamic routingwith React Router. Fetching exercise data and integrating APIs. Responsive design for mobile.",
@@ -87,34 +101,54 @@ export const projectsData = [
     imageUrl: Goldgym,
     url:"https://goldsgymfitness.vercel.app/"
   },
-  // {
-  //   title: "Gather-Guru",
-  //   description:
-  //     "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-  //   tags: ["React", "Next.js", "Mongodb", "Tailwind", "stripe"],
-  //   imageUrl: Gatherguru,
-  // },
-  // {
-  //   title: "Gather-Guru",
-  //   description:
-  //     "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-  //   tags: ["React", "Next.js", "Mongodb", "Tailwind", "stripe"],
-  //   imageUrl: Gatherguru,
-  // },
-  // {
-  //   title: "Gather-Guru",
-  //   description:
-  //     "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-  //   tags: ["React", "Next.js", "Mongodb", "Tailwind", "stripe"],
-  //   imageUrl: Gatherguru,
-  // },
-  // {
-  //   title: "Gather-Guru",
-  //   description:
-  //     "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-  //   tags: ["React", "Next.js", "Mongodb", "Tailwind", "stripe"],
-  //   imageUrl: Gatherguru,
-  // },
+  {
+    title: "GocarHub",
+    description:
+      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
+    tags: ["React", "Next.js","Api", "Tailwind",],
+    imageUrl: GocarHub,
+    url: "https://gocarhub.netlify.app"
+  },
+  {
+    title: "MonitorPro",
+    description:
+      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
+    tags: ["Nextjs","Tailwind","Figma"],
+    imageUrl: MonitorPro,
+    url:"https://monitorpro.vercel.app/"
+  },
+  {
+    title: "Visualizepro",
+    description:
+      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
+    tags: ["Html","css","javascript"],
+    imageUrl: Visualizepro,
+    url:"https://visualizepro.netlify.app"
+  },
+  {
+    title: "Realtynest",
+    description:
+      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
+      tags: ["Html","css","javascript"],
+      imageUrl: Realtynest,
+    url:"https://realtynest.netlify.app/"
+  },
+  {
+    title: "NoughtAndCrossRoads",
+    description:
+      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
+    tags: ["React", "Next.js", "Mongodb", "Tailwind", "stripe"],
+    imageUrl:NoughtAndCrossRoads,
+    url:"https://noughtandcrossroads.netlify.app/"
+  },
+  {
+    title: "ListifyTaskTracker",
+    description:
+      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
+    tags: ["React",  "Javascript"],
+    imageUrl:Todos,
+    url:"https://listifytasktracker.netlify.app/"
+  },
 ] as const;
 
 export const skillsData = [
