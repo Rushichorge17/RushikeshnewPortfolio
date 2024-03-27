@@ -7,12 +7,12 @@ import JourneyJot from "@/public/JourneyJot.png";
 import AuthNinja from "@/public/AuthNinja.png";
 import Goldgym from "@/public/Goldgym.png";
 import Gatherguru from "@/public/Gatherguru.png";
-import GocarHub from "@/public/GocarHub.png"
-import Visualizepro from "@/public/Visualizepro.png"
-import Realtynest from "@/public/Realtynest.png"
-import NoughtAndCrossRoads from "@/public/NoughtAndCrossRoads.png"
-import Todos from "@/public/Todos.png"
-import  MonitorPro from "@/public/MonitorPro.png"
+import GocarHub from "@/public/GocarHub.png";
+import Visualizepro from "@/public/Visualizepro.png";
+import Realtynest from "@/public/Realtynest.png";
+import NoughtAndCrossRoads from "@/public/NoughtAndCrossRoads.png";
+import Todos from "@/public/Todos.png";
+import  MonitorPro from "@/public/MonitorPro.png";
 export const links = [
   {
     name: "Home",
