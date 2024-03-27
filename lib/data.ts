@@ -7,7 +7,7 @@ import JourneyJot from "@/public/JourneyJot.png";
 import AuthNinja from "@/public/AuthNinja.png";
 import Goldgym from "@/public/Goldgym.png";
 import Gatherguru from "@/public/Gatherguru.png";
-import GocarHub from "@/public/GocarHub.png";
+// import GocarHub from "@/public/GocarHub.png";
 import Visualizepro from "@/public/Visualizepro.png";
 import Realtynest from "@/public/Realtynest.png";
 import NoughtAndCrossRoads from "@/public/NoughtAndCrossRoads.png";
@@ -101,14 +101,14 @@ export const projectsData = [
     imageUrl: Goldgym,
     url:"https://goldsgymfitness.vercel.app/"
   },
-  {
-    title: "GocarHub",
-    description:
-      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-    tags: ["React", "Next.js","Api", "Tailwind",],
-    imageUrl: GocarHub,
-    url: "https://gocarhub.netlify.app"
-  },
+  // {
+  //   title: "GocarHub",
+  //   description:
+  //     "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
+  //   tags: ["React", "Next.js","Api", "Tailwind",],
+  //   imageUrl: GocarHub,
+  //   url: "https://gocarhub.netlify.app"
+  // },
   {
     title: "MonitorPro",
     description:
