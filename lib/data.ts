@@ -97,30 +97,30 @@ export const projectsData = [
     title: "Golds Gym Fitness",
     description:
       "Rendering JSX and implementing exercise details. Dynamic routingwith React Router. Fetching exercise data and integrating APIs. Responsive design for mobile.",
-    tags: ["React", "Tailwind", "API"],
+    tags: ["Javascript","React", "Tailwind", "API"],
     imageUrl: Goldgym,
     url:"https://goldsgymfitness.vercel.app/"
   },
   {
     title: "GocarHub",
     description:
-      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-    tags: ["React", "Next.js","Api", "Tailwind",],
+      "The project focuses on creating a car showcase platform using Next.js, covering features like advanced search, server-side rendering, and responsive design. It's ideal for React developers looking to enhance their skills.",
+    tags: ["React","Typescript", "Next.js","Api", "Tailwind",],
     imageUrl:CarHub,
     url: "https://gocarhub.netlify.app"
   },
   {
     title: "MonitorPro",
     description:
-      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-    tags: ["Nextjs","Tailwind","Figma"],
+      "The project builds a responsive website using Next.js, Tailwind CSS, and Figma. It emphasizes modern development practices, focusing on modularity and responsiveness.",
+    tags: ["Nextjs","Typescript","Tailwind","Figma" ,"Css",],
     imageUrl: MonitorPro,
     url:"https://monitorpro.vercel.app/"
   },
   {
     title: "Visualizepro",
     description:
-      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
+      " The project enhances a website clone of Apple's platform, emphasizing CSS animations, addressing battery drain concerns, and optimizing HTML, JavaScript, and CSS usage for dynamic web experiences.",
     tags: ["Html","css","javascript"],
     imageUrl: Visualizepro,
     url:"https://visualizepro.netlify.app"
@@ -128,24 +128,24 @@ export const projectsData = [
   {
     title: "Realtynest",
     description:
-      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-      tags: ["Html","css","javascript"],
+
+    "This project is an enhanced animation website that incorporates CSS animations to enhance its visual appeal, elevating its professional presentation.",      tags: ["Html","css","javascript"],
       imageUrl: Realtynest,
     url:"https://realtynest.netlify.app/"
   },
   {
     title: "NoughtAndCrossRoads",
     description:
-      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-    tags: ["React", "Next.js", "Mongodb", "Tailwind", "stripe"],
+      "NoughtAndCrossRoads is simple X or O  game two player can play at a time",
+    tags: ["Html","Css","Javascript"],
     imageUrl:NoughtAndCrossRoads,
     url:"https://noughtandcrossroads.netlify.app/"
   },
   {
     title: "ListifyTaskTracker",
     description:
-      "Create a GatherGuru-like Event Web App with HTML forms, Stripe, Tailwind CSS, Clerk auth, Next.js on Vercel, error handling, related events, collaborations, accessibility, and sleek UI.",
-    tags: ["React",  "Javascript"],
+    "ListifyTaskTracker is an advanced todo application designed to efficiently manage daily tasks with ease and convenience."  ,
+      tags: ["React",  "Javascript"],
     imageUrl:Todos,
     url:"https://listifytasktracker.netlify.app/"
   },
