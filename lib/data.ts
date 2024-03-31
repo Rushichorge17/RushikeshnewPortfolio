@@ -13,6 +13,7 @@ import Realtynest from "@/public/Realtynest.png";
 import NoughtAndCrossRoads from "@/public/NoughtAndCrossRoads.png";
 import Todos from "@/public/Todos.png";
 import  MonitorPro from "@/public/MonitorPro.png";
+import CodeBuddy from "@/public/CodeBuddy.png";
 export const links = [
   {
     name: "Home",
@@ -79,9 +80,8 @@ export const projectsData = [
   {
     title: "CodeBuddy",
     description:
-
     "Code Buddy: A Cutting-Edge Video Streaming Platform Offering High-Quality Video Calling and Seamless Chat Integration for Enhanced Collaborative Experiences.",    tags: ["Nextjs", "Tailwind", "Stream.io" , "clerk"],
-    imageUrl: JourneyJot,
+    imageUrl: CodeBuddy,
     url:"https://codebuddyhub.vercel.app/"
   },
   {
