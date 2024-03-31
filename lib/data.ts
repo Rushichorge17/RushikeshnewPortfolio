@@ -61,6 +61,14 @@ export const servicesData = [
 
 export const projectsData = [
   {
+    title: "JourneyJot Balogwebsite",
+    description:
+      "Utilizing React Router, Tailwind CSS, OAuth, Redux, MongoDB with Express.js, and Firebase for a streamlined web solution.",
+    tags: ["Mongodb", "Express", "React", "Nodejs"],
+    imageUrl: JourneyJot,
+    url:"https://journeyjot-x2f3.onrender.com/"
+  },
+  {
     title: "Imaginify",
     description:
       "Developing a SaaS app for channel-specific image transformations.",
@@ -69,12 +77,12 @@ export const projectsData = [
     url:"https://imaginifystudio.vercel.app/"
   },
   {
-    title: "JourneyJot Balogwebsite",
+    title: "CodeBuddy",
     description:
-      "Utilizing React Router, Tailwind CSS, OAuth, Redux, MongoDB with Express.js, and Firebase for a streamlined web solution.",
-    tags: ["Mongodb", "Express", "React", "Nodejs"],
+
+    "Code Buddy: A Cutting-Edge Video Streaming Platform Offering High-Quality Video Calling and Seamless Chat Integration for Enhanced Collaborative Experiences.",    tags: ["Nextjs", "Tailwind", "Stream.io" , "clerk"],
     imageUrl: JourneyJot,
-    url:"https://journeyjot-x2f3.onrender.com/"
+    url:"https://codebuddyhub.vercel.app/"
   },
   {
     title: "AuthNinja",
